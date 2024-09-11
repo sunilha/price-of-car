@@ -1,5 +1,5 @@
-# price-of-car
-What Drives the Price of a Car?
+# price-of-used-car
+What drives the price of a used car?
 
 ## Project Overview
 The goal of this project is to understand what factors make a car more or less expensive. 
